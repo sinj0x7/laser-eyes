@@ -62,3 +62,7 @@ Settings → Voice & Video → Camera → pick **LaserEyes**
 - linux (uses v4l2loopback for virtual cam)
 - python 3.10+
 - webcam
+
+## coming soon
+
+- [ ] windows support (OBS virtual cam)
